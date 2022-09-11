@@ -1,1 +1,1 @@
-# Earningedu-Test-Case
+# Test Cases
